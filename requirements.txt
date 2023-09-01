@@ -3,5 +3,5 @@ scipy
 scikit-learn
 pandas
 xgboost
-lightgbm
+lightgbm==3.3.5
 streamlit
